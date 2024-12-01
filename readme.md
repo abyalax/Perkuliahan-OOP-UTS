@@ -53,4 +53,4 @@ Buat program Java berbasis OOP yang mensimulasikan manajemen sebuah toko buku. P
 ---
 
 ## Output Program
-![Output Program](./output.png)
+![Output Program](./requirement/output.png)
